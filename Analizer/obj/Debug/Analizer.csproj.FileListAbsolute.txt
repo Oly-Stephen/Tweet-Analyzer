@@ -1,0 +1,110 @@
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Analizer.exe.config
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Analizer.exe
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Analizer.pdb
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.Core.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Newtonsoft.Json.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.Core.xml
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.xml
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.xml
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.xml
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Newtonsoft.Json.pdb
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\Newtonsoft.Json.xml
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\obj\Debug\Analizer.csprojResolveAssemblyReference.cache
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\obj\Debug\Analizer.Form1.resources
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\obj\Debug\Analizer.Properties.Resources.resources
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\obj\Debug\Analizer.csproj.GenerateResource.Cache
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\obj\Debug\Analizer.exe
+E:\Учеба\2 курс\Tweets\Analizer\Analizer\obj\Debug\Analizer.pdb
+D:\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe.config
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.exe
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.pdb
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe.config
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.exe
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.pdb
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Analizer.pdb
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.dll
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.dll
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.dll
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.xml
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.xml
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.xml
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.pdb
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.xml
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.Form1.resources
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.Properties.Resources.resources
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.csprojResolveAssemblyReference.cache
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe.config
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Analizer.pdb
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.dll
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.dll
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.dll
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.xml
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.xml
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.pdb
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.xml
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.Form1.resources
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.CopyComplete
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.exe
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.pdb
+C:\Work\0_Учебные курсы\Design Patterns\3_Projects\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.AssemblyReference.cache
+D:\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe
+D:\Analizer\Analizer\Analizer\bin\Debug\Analizer.pdb
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.dll
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.dll
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.dll
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.xml
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.xml
+D:\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.xml
+D:\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.pdb
+D:\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.xml
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.AssemblyReference.cache
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.SuggestedBindingRedirects.cache
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.Form1.resources
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.Properties.Resources.resources
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.GenerateResource.cache
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.CoreCompileInputs.cache
+D:\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.CopyComplete
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe.config
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\Analizer.exe
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\Analizer.pdb
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.dll
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.dll
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.dll
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.Core.xml
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsForms.1.7.0.0.Fakes.xml
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\GMap.NET.WindowsPresentation.xml
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.pdb
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\bin\Debug\Newtonsoft.Json.xml
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.AssemblyReference.cache
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.SuggestedBindingRedirects.cache
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.Form1.resources
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.Properties.Resources.resources
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.GenerateResource.cache
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.CoreCompileInputs.cache
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.csproj.CopyComplete
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.exe
+C:\Codes\C-sharp\Analizer\Analizer\Analizer\obj\Debug\Analizer.pdb
